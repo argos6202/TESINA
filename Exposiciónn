@@ -1,0 +1,23 @@
+Justificación:
+
+La aplicación que hemos desarrollado tiene como objetivo abordar un problema común que enfrentan muchas pequeñas empresas, especialmente aquellas con un número limitado de empleados. En muchas ocasiones, los propietarios de estas empresas se encuentran con dificultades para llevar un registro efectivo de los pagos realizados a sus trabajadores. Esto puede deberse a la falta de herramientas adecuadas y al uso de métodos tradicionales como la anotación en papel, lo que puede resultar en una gestión ineficiente y pérdida de tiempo al buscar registros pasados.
+
+Con nuestra aplicación, hemos creado una solución integral que permite a los propietarios de pequeñas empresas agilizar el proceso de registro y seguimiento de los pagos a sus trabajadores. A través de una interfaz intuitiva y fácil de usar, ofrecemos diversas características que permiten al usuario gestionar de manera eficiente los pagos, así como llevar un registro detallado de los mismos.
+
+Entre las características principales de nuestra aplicación se incluyen:
+
+Pantalla de inicio de sesión: Para garantizar la seguridad de los datos, nuestra aplicación cuenta con un sistema de inicio de sesión que permite al usuario acceder de manera segura a todas las funciones disponibles.
+
+Opciones de administrador: Hemos integrado una serie de opciones específicamente diseñadas para satisfacer las necesidades del propietario de la empresa. Estas opciones incluyen la gestión de trabajadores, proyectos, así como la generación de nóminas y la realización de informes detallados sobre los pagos realizados.
+
+Lista interactiva de trabajadores: Para facilitar el acceso a la información de los trabajadores, hemos implementado una lista interactiva que permite al usuario acceder fácilmente a los detalles de contacto y otra información relevante de cada empleado.
+
+Registro de pagos: La aplicación proporciona una pantalla dedicada para registrar los pagos realizados a los trabajadores, lo que permite al usuario mantener un registro organizado y detallado de todas las transacciones.
+
+Además, hemos desarrollado la aplicación utilizando tecnología avanzada como Android Studio, lo que garantiza un rendimiento óptimo y una experiencia de usuario fluida. Durante el proceso de desarrollo, nos enfrentamos al desafío de organizar las opciones necesarias para el propietario de la empresa, pero gracias a nuestro enfoque meticuloso y dedicado, logramos superar estos obstáculos con éxito.
+
+En cuanto a los resultados y logros obtenidos hasta ahora, hemos completado con éxito la fase de desarrollo inicial de la aplicación y nos encontramos en la etapa de pruebas. Aunque aún no hemos recibido feedback de los usuarios, estamos seguros de que nuestra aplicación satisfará las necesidades de los propietarios de pequeñas empresas y les permitirá gestionar de manera más eficiente los pagos a sus trabajadores.
+
+Adjuntamos algunas imágenes y capturas de pantalla de la aplicación para mostrar cómo se ve y funciona en la práctica. Estamos emocionados por el potencial de nuestra aplicación y esperamos recibir comentarios positivos de los usuarios a medida que continuamos refinando y mejorando nuestra solución.
+
+Con esta justificación, esperamos destacar el valor y la utilidad de nuestra aplicación para los propietarios de pequeñas empresas, ofreciendo una solución práctica y eficiente para la gestión de pagos de empleados.
